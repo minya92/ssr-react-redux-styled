@@ -1,27 +1,14 @@
-[![Deploy to now](https://deploy.now.sh/static/button.svg)](https://deploy.now.sh/?repo=https://github.com/zeit/next.js/tree/master/examples/custom-server-express)
+# React Server Side Rendering (SSR) based on Next.js 
 
-# Custom Express Server example
+## What's Included
+
+react, redux, styled-components, express server, routing and links examples
+
+This project includes [these examples](https://github.com/zeit/next.js/tree/master/examples) from the  [official repository](https://github.com/zeit/next.js)
 
 ## How to use
 
-### Using `create-next-app`
-
-Execute [`create-next-app`](https://github.com/segmentio/create-next-app) with [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) or [npx](https://github.com/zkat/npx#readme) to bootstrap the example:
-
-```bash
-npx create-next-app --example custom-server-express custom-server-express-app
-# or
-yarn create next-app --example custom-server-express custom-server-express-app
-```
-
-### Download manually
-
-Download the example [or clone the repo](https://github.com/zeit/next.js):
-
-```bash
-curl https://codeload.github.com/zeit/next.js/tar.gz/canary | tar -xz --strip=2 next.js-canary/examples/custom-server-express
-cd custom-server-express
-```
+[Clone the repo](https://github.com/minya92/ssr-react-redux-styled):
 
 Install it and run:
 
